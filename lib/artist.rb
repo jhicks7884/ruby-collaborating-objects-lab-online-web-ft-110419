@@ -8,6 +8,7 @@ class Artist
     @@all
   end
 end
+
   def self.all
     @@all
  end

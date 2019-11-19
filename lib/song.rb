@@ -24,3 +24,4 @@ class Song
     new_song.artist_name = artist
     new_song
   end
+end
